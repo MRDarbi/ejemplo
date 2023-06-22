@@ -1,0 +1,44 @@
+
+.contenedor{
+    background-color: rgb(242, 57, 246);
+    width: 600px;
+    height: 600px;
+}
+.contenedor--borde{
+    /*border color: black 
+    ;
+    border-top-width: 100px ;
+    border-bottom-width:100px;
+    border-left-width:100px ;
+    border-right-width: 100px  ;*/
+
+    border-right-style:double;
+    border-left-style:outset;
+    border-top-style:double;
+    border-bottom-style:groove ;
+
+}
+.contenido{
+    background-color: rgb(242, 57, 246) ;
+    width: 600px;
+    height: 400px;
+}
+.nombre{
+    border-width: 30px 60px  90px 120px;
+  
+}
+.cuadro1{
+    background-color: rgb(246, 57, 57);
+    width: 600px;
+    height: 600px;   
+}
+.cuadro2{
+    background-color: rgb(246, 136, 57);
+    width: 600px;
+    height: 600px;   
+}
+.cuadro2{
+    background-color: rgb(240, 213, 5);
+    width: 600px;
+    height: 600px;   
+}

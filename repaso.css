@@ -1,0 +1,9 @@
+
+.parrafo{
+    border: 100px dashed rgb(249, 197, 86);
+    border-style: groove;
+    margin: 400px;
+    padding: 100px;
+    background-color: rgb(242, 105, 67);
+}
+
